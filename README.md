@@ -108,13 +108,6 @@ tests using `make test` command.
 Don't know what to contribute? Here is the public 
 [Project Board](https://github.com/users/imartinez/projects/3) with several ideas. 
 
-Head over to Discord 
-#contributors channel and ask for write permissions on that GitHub project.
-
-## 💬 Community
-Join the conversation around PrivateGPT on our:
-- [Twitter (aka X)](https://twitter.com/PrivateGPT_AI)
-- [Discord](https://discord.gg/bK6mRVpErU)
 
 ## 📖 Citation
 If you use PrivateGPT in a paper, check out the [Citation file](CITATION.cff) for the correct citation.  
